@@ -2,17 +2,18 @@
 
 Este repositório contém exercícios básicos em HTML e JavaScript com o objetivo de praticar e reforçar conceitos fundamentais de lógica de programação.
 
-## Estrutura dos Arquivos
+## Conteúdo dos Exercícios
 
-Os arquivos estão organizados por sequência numérica (exercicios1, exercicios2, etc.), contendo:
-- Arquivos `.html` responsáveis por carregar os scripts.
-- Arquivos `.js` com os códigos de lógica, incluindo:
-  - Uso de variáveis e operadores
-  - Estruturas condicionais (`if`, `else`)
-  - Estruturas de repetição (`while`)
-  - Entrada e saída de dados com `prompt`, `alert` e `console.log`
-  - Operações matemáticas simples
-  - Geração de números aleatórios
+Ao longo dos arquivos, são abordados conceitos como:
+- **Variáveis e tipos de dados**
+- **Operadores matemáticos e lógicos**
+- **Entrada e saída de dados** usando `prompt`, `alert` e `console.log`
+- **Estruturas condicionais** (`if`, `else if`, `else`)
+- **Estruturas de repetição** (`while`)
+- **Funções** e parâmetros
+- **Manipulação de arrays**
+- **Geração de números aleatórios**
+- **Interatividade com botões** no HTML
 
 ## Objetivo
 
